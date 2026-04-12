@@ -60,16 +60,16 @@
     </tr>
     <tr>
         <th>
-            MSEssentials.MVVM
+            MSEssentials.UI.Common.MVVM
         </th>
         <td>
             MVVM architecture models and helper classes
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.MVVM"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
+            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.UI.Common.MVVM"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://www.nuget.org/packages/MSEssentials.MVVM/"><img src="https://img.shields.io/nuget/v/MSEssentials.MVVM.svg?style=flat-square"></a>
+            <a href="https://www.nuget.org/packages/MSEssentials.UI.Common.MVVM/"><img src="https://img.shields.io/nuget/v/MSEssentials.UI.Common.MVVM.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
