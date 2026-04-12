@@ -74,16 +74,16 @@
     </tr>
     <tr>
         <th>
-            MSEssentials.UI.Models
+            MSEssentials.UI.Common.Converters
         </th>
         <td>
-            UI helpers and models
+            Base for UI framework-specific XAML converters
         </td>
         <td>
-            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.UI.Models"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
+            <a href="https://repos.mateuszskoczek.com/MSEssentials/MSEssentials.UI.Common.Converters"><img src="https://img.shields.io/badge/repository-darkgreen?style=flat-square&logo=gitea"/></a>
         </td>
         <td>
-            <a href="https://www.nuget.org/packages/MSEssentials.UI.Models/"><img src="https://img.shields.io/nuget/v/MSEssentials.UI.Models.svg?style=flat-square"></a>
+            <a href="https://www.nuget.org/packages/MSEssentials.UI.Common.Converters/"><img src="https://img.shields.io/nuget/v/MSEssentials.UI.Common.Converters.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
